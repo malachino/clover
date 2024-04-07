@@ -22,10 +22,11 @@ function App() {
             <ul>
                 <li><b href=''>C L O V E R</b></li>
 
-                <li><a href='http://localhost:3000/'>Home</a></li>
-                <li><a href='http://localhost:3000/'>Extras</a></li>
-                <li><a href='http://localhost:3000/'>About</a></li>
-                <li><a href='http://localhost:3000/'>Contact</a></li>
+                <li><a href='https://honeysuckle-plum.vercel.app/'>Home</a></li>
+                <li><a href='https://honeysuckle-plum.vercel.app/'>Extras</a></li>
+                <li><a href='https://honeysuckle-plum.vercel.app/'>About</a></li>
+                <li><a href='https://honeysuckle-plum.vercel.app/'>Contact</a></li>
+                <li><a href='https://www.google.com/'>Leave to Google</a></li>
             </ul>
         </nav>
 
