@@ -20,7 +20,7 @@ function App() {
 
         <nav className='TopBar'>
             <ul>
-                <li><b href=''>C L O V E R</b></li>
+                <li><b href=''>C L O V E R Y</b></li>
 
                 <li><a href='https://honeysuckle-plum.vercel.app/'>Home</a></li>
                 <li><a href='https://honeysuckle-plum.vercel.app/'>Extras</a></li>
